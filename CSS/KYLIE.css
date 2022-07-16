@@ -1,0 +1,46 @@
+/* CSS Reset */
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+html{
+    scroll-behavior: smooth;
+}
+/* CSS Variables */
+body{
+    /* background: url('../Sub-site 2/colgate.jfif'); */
+    background: url('../img/Screenshot1.jfif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:black;
+    font-size: 20px;
+}
+#head{
+    text-align: center;
+    padding: 15px;
+    height: 50px;
+    position: sticky;
+    font-size: 70px;
+    color: white;
+}
+#subhead{
+    text-align: center;
+    /* padding: 1px; */
+    /* height: 50px; */
+    position: sticky;
+    font-family: 'Baloo Bhai', cursive;
+    color: rgb(255, 0, 0);
+}
+#p1{
+    padding: 25px;
+}
+#fotter{
+    /* background: black; */
+    /* color: white; */
+    padding: 9px 20px;
+    position: sticky;
+    text-align: center;
+    font-family: 'Baloo Bhai', cursive;
+    font-size: 25px;
+}
